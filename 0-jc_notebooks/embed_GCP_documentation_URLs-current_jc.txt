@@ -1,0 +1,39 @@
+## things to ask this one about:
+best practices for embedding PDFs
+Model tuning - what does the data input to the tuning process look like?
+what are the use cases for tuning an embedding model?
+
+
+
+https://cloud.google.com/vertex-ai/generative-ai/docs/start/quickstarts/quickstart-multimodal
+https://cloud.google.com/vertex-ai/generative-ai/docs/learn/models
+https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/send-chat-prompts-gemini
+https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/control-generated-output
+https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/batch-prediction-gemini
+https://cloud.google.com/vertex-ai/generative-ai/docs/code/test-code-completion-prompts
+https://cloud.google.com/vertex-ai/generative-ai/docs/medlm/overview
+https://cloud.google.com/vertex-ai/generative-ai/docs/medlm/medlm-prompts
+https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/gemini-experimental
+https://cloud.google.com/vertex-ai/generative-ai/docs/long-context
+https://cloud.google.com/vertex-ai/generative-ai/docs/embeddings
+https://cloud.google.com/vertex-ai/generative-ai/docs/embeddings/task-types
+https://cloud.google.com/vertex-ai/generative-ai/docs/embeddings/get-text-embeddings
+https://cloud.google.com/vertex-ai/generative-ai/docs/embeddings/get-multimodal-embeddings
+https://cloud.google.com/vertex-ai/generative-ai/docs/embeddings/batch-prediction-genai-embeddings
+https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/image-understanding
+https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/video-understanding
+https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/audio-understanding
+https://cloud.google.com/vertex-ai/generative-ai/docs/multimodal/document-understanding
+https://cloud.google.com/vertex-ai/generative-ai/docs/models/tune-models
+https://cloud.google.com/vertex-ai/generative-ai/docs/models/gemini-tuning
+https://cloud.google.com/vertex-ai/generative-ai/docs/models/gemini-supervised-tuning
+https://cloud.google.com/vertex-ai/generative-ai/docs/models/gemini-supervised-tuning-about
+https://cloud.google.com/vertex-ai/generative-ai/docs/models/gemini-supervised-tuning-region-settings
+https://cloud.google.com/vertex-ai/generative-ai/docs/models/gemini-use-supervised-tuning
+https://cloud.google.com/vertex-ai/generative-ai/docs/models/tune-embeddings
+https://cloud.google.com/vertex-ai/generative-ai/docs/model-garden/lora-qlora
+
+
+
+
+https://cloud.google.com/vertex-ai/generative-ai/docs/llamaindex-on-vertexai
