@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../enterprise-knowledge-solution"
+		},
+		{
+			"path": "../quivr-llm-brain-app"
+		},
+		{
+			"path": "../gcp-genai-for-developers"
+		}
+	],
+	"settings": {}
+}
