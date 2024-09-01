@@ -1,0 +1,8 @@
+https://medium.com/google-cloud/unlocking-corporate-insights-with-ai-your-interactive-financial-analyst-on-google-cloud-658ac17fac90
+https://medium.com/ai-artistry/codexgraph-bridging-large-language-models-and-code-repositories-c5396ef7ad46
+https://medium.com/@vankhoa21991/unleashing-the-power-of-ai-crafting-intelligent-insights-with-large-language-models-and-refined-dfc07c648619
+https://medium.com/towards-data-science/17-advanced-rag-techniques-to-turn-your-rag-app-prototype-into-a-production-ready-solution-5a048e36cdc8
+https://medium.com/eqs-tech-blog/etl-pipeline-for-chatbots-using-gitlab-71b3ce5b343e
+https://medium.com/google-cloud/level-up-your-rag-tuning-embeddings-on-vertex-ai-901bb7f65bd0
+https://medium.com/@dhafnar/building-a-serverless-rag-system-with-bigquery-and-gemini-12e66328f622
+https://medium.com/happtiq-data-ai-hub/ask-your-documents-anything-w-vertex-ai-search-1c1848536502
