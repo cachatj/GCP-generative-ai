@@ -11,9 +11,6 @@
 		},
 		{
 			"path": "../gcp-genai-for-developers"
-		},
-		{
-			"path": "../!RAG_chatbot_JC_KnowledgeBase/RAG_Techniques"
 		}
 	],
 	"settings": {}
